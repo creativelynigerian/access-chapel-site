@@ -3,7 +3,7 @@
 // ============================================
 
 // ===== GOOGLE SHEETS REGISTRATION =====
-const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycby6KSvLQz1KdWPpl-rUPNS7e8A23WCEOc_tQTX1gm0hWoQPX0t9v4rf8sRHohbSeSHA/exec';
+const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbzL6X5CrqI0u08AJNwFN6KD68DEhHLF45-jWGivI7S41-zzAjvA3QxhD8qbm-ENRUcjTg/exec';
 
 // ===== REGISTRATION FORM =====
 const registerForm = document.getElementById('registerForm');
